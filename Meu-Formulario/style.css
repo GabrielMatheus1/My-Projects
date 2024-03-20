@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(110, 106, 106);
+}
+
+#group1, #group2 {
+    border: solid 2px black;
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    box-shadow: 5px 5px 10px;
+}
+
+input {
+    margin: 5px;
+}
+
+span {
+    color: red;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    width: 50px;
+    border-radius: 100%;
+}
