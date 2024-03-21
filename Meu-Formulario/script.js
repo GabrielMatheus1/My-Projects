@@ -26,3 +26,5 @@ bntback.addEventListener( 'click', function() {
     div1.style.display = 'none';
   }});
 // evento para voltar voltar a primeira parte //
+
+//
